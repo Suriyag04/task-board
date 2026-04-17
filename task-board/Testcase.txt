@@ -1,0 +1,9 @@
+Can add new tasks
+Can edit existing tasks
+Can delete tasks (with confirmation)
+Can change status via dropdown
+Filters work correctly
+Tasks persist after page refresh
+Looks decent on mobile
+No console errors
+
