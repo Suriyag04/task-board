@@ -26,8 +26,9 @@
 - npm
 
 # step-by-step setup
-ash
-git clone https://github.com/Suriyag04/TaskBoard_Tracker.git
+bash
+
+git clone https://github.com/Suriyag04/task-board.git
 cd task-tracker
 
 
